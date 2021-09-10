@@ -1,0 +1,21 @@
+*{font-family: 'Open Sans', sans-serif;}
+
+/*bootstrap config*/
+.brd-bg-warning{
+  background-color: #FB9400;
+}
+.brd-bg-light{
+  background-color: #F2F2F2;
+}
+
+.brd-payment-success {
+    width: 400px;
+    padding: 15px 25px;
+    border-radius: 4px;
+    
+    button{
+      background-color: #FB9400;
+      padding: 8px 15px;
+      border-radius: 15px;
+    }
+}

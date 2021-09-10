@@ -1,0 +1,51 @@
+* {
+  font-family: 'Open Sans', sans-serif;
+}
+
+/*bootstrap config*/
+.brd-bg-warning {
+  background-color: #FB9400;
+}
+
+.brd-bg-light {
+  background-color: #F2F2F2;
+}
+
+.brd-payment-success {
+  width: 400px;
+  margin: auto;
+  background-color: #fff;
+  padding: 15px 25px;
+  border-radius: 4px;
+}
+
+.brd-payment-success img {
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 15px;
+}
+
+.brd-payment-success button {
+  background-color: #FB9400;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 8px 15px;
+  border: 0px;
+  color: #fff;
+  border-radius: 15px;
+}
+
+.brd-success-text {
+  margin-bottom: 10px;
+  text-align: center;
+}
+
+.brd-success-text h2 {
+  margin-bottom: 10px;
+  margin-top: 0;
+}
+
+.brd-success-text p {
+  margin: 0;
+}
+/*# sourceMappingURL=style.css.map */
