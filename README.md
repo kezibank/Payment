@@ -1,3 +1,3 @@
-# Payment
+# Payment Page
 
-Responsive ödeme sayfası yapımı HTML-CSS
+Responsive payment page construction HTML CSS SCSS
